@@ -3,3 +3,8 @@ body
 	color: white;
 	background: #888;
 }
+selection
+{
+	height:40px;
+	border: 2px solid black;
+}
